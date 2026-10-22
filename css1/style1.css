@@ -2,9 +2,7 @@
 * {
   box-sizing: border-box;
 }
-@font-face {
-    font-family: 'FontUi';
-    src: url('fonts/fontui.ttf');
+
 /* Style the body */
 body {
   font-family: Arial, Helvetica, sans-serif;
@@ -14,7 +12,7 @@ body {
 /* Header/logo Title */
 .header {
     padding: 80px;
-    font-family: 'Lucida Handwriting', cursive, 'FontUi';
+    font-family: 'Lucida Handwriting', cursive;
     text-align: center;
     background: #b3428e;
     color: white;
