@@ -13,6 +13,7 @@ body {
 .header {
   padding: 80px;
   font-family: ”Lucida Handwriting”, cursive;
+    src: url('fonts/fontul.ttf');
   text-align: center;
   background: #6f49e3;
   color: white;
