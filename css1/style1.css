@@ -12,7 +12,7 @@ body {
 /* Header/logo Title */
 .header {
   padding: 80px;
-  font-family: ”Lucida Handwriting” cursive;
+  font-family: ”Lucida Handwriting”, cursive;
   text-align: center;
   background: #6f49e3;
   color: white;
