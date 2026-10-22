@@ -11,11 +11,11 @@ body {
 
 /* Header/logo Title */
 .header {
-    padding: 80px;
-    font-family: 'Lucida Handwriting', cursive;
-    text-align: center;
-    background: #b3428e;
-    color: white;
+  padding: 80px;
+  font-family: lucida handwriting;
+  text-align: center;
+  background: #63428e;
+  color: white;
 }
 
 /* Increase the font size of the heading */
