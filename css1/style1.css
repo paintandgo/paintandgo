@@ -12,8 +12,8 @@ body {
 /* Header/logo Title */
 .header {
   padding: 80px;
+  src: url('fonts/fontul.ttf');
   font-family: ”Lucida Handwriting”, cursive;
-    src: url('fonts/fontul.ttf');
   text-align: center;
   background: yellow;
   color: white;
